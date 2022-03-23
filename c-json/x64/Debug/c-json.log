@@ -1,0 +1,4 @@
+﻿  main.c
+D:\OneDrive - ViaUC\4 Semester\SEP\IoT\C Code\Test Solution\c-json\main.c(25,41): warning C4129: '{': unrecognized character escape sequence
+D:\OneDrive - ViaUC\4 Semester\SEP\IoT\C Code\Test Solution\c-json\main.c(25,41): warning C4129: ',': unrecognized character escape sequence
+  c-json.vcxproj -> D:\OneDrive - ViaUC\4 Semester\SEP\IoT\C Code\Test Solution\x64\Debug\c-json.exe
