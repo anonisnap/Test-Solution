@@ -22,5 +22,5 @@ main() {
 	printf("%s\n\n", s);
 
 	// Prints a String, parsed from a raw JSON string
-	printf("%s\n", cJSON_Print(cJSON_Parse("\{\"Name\":\"Sander\"\,\"Age\":26}")));
+	printf("%s\n", cJSON_Print(cJSON_Parse("{\"Name\":\"Sander\",\"Age\":26}")));
 }
